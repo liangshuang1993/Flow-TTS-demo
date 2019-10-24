@@ -25,10 +25,9 @@ In this work, we propose Flow-TTS, a non-autoregressive end-to-end neural TTS mo
 
 I will quote an extract from the reverend gentleman's own journal.
 
-<table border="0" >
+<table border="0">
 <thead>
 <tr>
-
 <th style="text-align: center">GT</th>
 <th style="text-align: center">GT(WaveGlow)</th>
 </tr>
@@ -44,7 +43,41 @@ I will quote an extract from the reverend gentleman's own journal.
 <table border="0" >
 <thead>
 <tr>
+<th style="text-align: center">Flow-TTS</th>
+<th style="text-align: center">Tacotron 2(WaveGlow)</th>
+<th style="text-align: center">FastSpeech(WaveGlow)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/gt_waveglow/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/at/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/at/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+</tr>
+</tbody>
+</table>
 
+
+I will quote an extract from the reverend gentleman's own journal.
+
+<table border="0">
+<thead>
+<tr>
+<th style="text-align: center">GT</th>
+<th style="text-align: center">GT(WaveGlow)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/gt_waveglow/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/at/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+</tr>
+</tbody>
+</table>
+
+<table border="0" >
+<thead>
+<tr>
 <th style="text-align: center">Flow-TTS</th>
 <th style="text-align: center">Tacotron 2(WaveGlow)</th>
 <th style="text-align: center">FastSpeech(WaveGlow)</th>
