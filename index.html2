@@ -44,13 +44,14 @@
             <td><span><b>Tacotron 2</b></td></span>
             <td><span><b>FastSpeech</b></td></span>
           </tr>
-          <!-- <tr>
+          <tr>
             <td><audio controls=""><source src="demos/proposed/F2M/p293_053.wav" type="audio/wav"></audio></td>
             <td><audio controls=""><source src="demos/proposed/F2M/p360_005.wav" type="audio/wav"></audio></td>
             <td><audio controls=""><source src="demos/baseline/baseline-adaptive-vc/F2M/293-360-053.wav" type="audio/wav"></audio></td>
             <td><audio controls=""><source src="demos/proposed/F2M/293_360_053.wav" type="audio/wav"></audio></td>
+            <td><audio controls=""><source src="demos/proposed/F2M/293_360_053.wav" type="audio/wav"></audio></td>
           </tr>
-          <tr>
+          <!-- <tr>
             <td><audio controls=""><source src="demos/proposed/F2M/p293_117.wav" type="audio/wav"></audio></td>
             <td><audio controls=""><source src="demos/proposed/F2M/p360_005.wav" type="audio/wav"></audio></td>
             <td><audio controls=""><source src="demos/baseline/baseline-adaptive-vc/F2M/293-360-117.wav" type="audio/wav"></audio></td>
