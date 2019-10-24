@@ -25,19 +25,40 @@ In this work, we propose Flow-TTS, a non-autoregressive end-to-end neural TTS mo
 
 I will quote an extract from the reverend gentleman's own journal.
 
+<table border="0" >
+<thead>
+<tr>
 
-**GT** &emsp **GT(WaveGlow)** &emsp **Flow-TTS** 
+<th style="text-align: center">GT</th>
+<th style="text-align: center">GT(WaveGlow)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/gt_waveglow/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/at/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+</tr>
+</tbody>
+</table>
 
-<td><audio controls=""><source src="demos/proposed/F2M/p293_117.wav" type="audio/wav"></audio></td>
-<td><audio controls=""><source src="demos/proposed/F2M/p360_005.wav" type="audio/wav"></audio></td>
-<td><audio controls=""><source src="demos/baseline/baseline-adaptive-vc/F2M/293-360-117.wav" type="audio/wav"></audio></td>
+<table border="0" >
+<thead>
+<tr>
 
+<th style="text-align: center">Flow-TTS</th>
+<th style="text-align: center">Tacotron 2(WaveGlow)</th>
+<th style="text-align: center">FastSpeech(WaveGlow)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/gt_waveglow/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/at/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/at/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+</tr>
+</tbody>
+</table>
 
- **Tacotron 2**  **FastSpeech**
-
-
-<td><audio controls=""><source src="demos/proposed/F2M/293_360_117.wav" type="audio/wav"></audio></td>
-<td><audio controls=""><source src="demos/proposed/F2M/293_360_117.wav" type="audio/wav"></audio></td>
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
