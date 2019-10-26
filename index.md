@@ -85,7 +85,7 @@ The various wards were all about eleven feet in height.
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ002-0045_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/audio-LJ002-0045_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 <td style="text-align: center"><audio controls="controls"><source src="wavs/tacotronNV_LJ002-0045_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 <td style="text-align: center"><audio controls="controls"><source src="wavs/fs-LJ002-0045_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 </tr>
@@ -121,7 +121,7 @@ The moral welfare of the inmates was as closely looked after as the physical.
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ004-0211_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/audio-LJ004-0211_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 <td style="text-align: center"><audio controls="controls"><source src="wavs/tacotronNV_LJ004-0211_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 <td style="text-align: center"><audio controls="controls"><source src="wavs/fs-LJ004-0211_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 </tr>
@@ -156,7 +156,7 @@ an incomplete and fallacious method of preventing contamination.
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ005-0279_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/audio-LJ005-0279_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 <td style="text-align: center"><audio controls="controls"><source src="wavs/tacotronNV_LJ005-0279_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 <td style="text-align: center"><audio controls="controls"><source src="wavs/fs-LJ005-0279_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 </tr>
@@ -190,7 +190,7 @@ except the forgery of wills and powers of attorney.
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ011-0132_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/audio-LJ011-0132_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 <td style="text-align: center"><audio controls="controls"><source src="wavs/tacotronNV_LJ011-0132_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 <td style="text-align: center"><audio controls="controls"><source src="wavs/fs-LJ011-0132_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 </tr>
@@ -224,7 +224,7 @@ by the blackmith in the usual way.
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ011-0186_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/audio-LJ011-0186_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 <td style="text-align: center"><audio controls="controls"><source src="wavs/tacotronNV_LJ011-0186_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 <td style="text-align: center"><audio controls="controls"><source src="wavs/fs-LJ011-0186_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 </tr>
