@@ -23,7 +23,7 @@ In this work, we propose Flow-TTS, a non-autoregressive end-to-end neural TTS mo
 ### We compare our method with [Tacotron 2](https://arxiv.org/abs/1712.05884) and [FastSpeech](https://arxiv.org/abs/1905.09263). All of the audio samples use [WaveGlow](https://arxiv.org/abs/1811.00002v1) as vocoder.
 
 
-I will quote an extract from the reverend gentleman's own journal.
+There seems to be no reason why ordinary paper should not be better made.
 
 <table border="0">
 <thead>
@@ -34,8 +34,8 @@ I will quote an extract from the reverend gentleman's own journal.
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/gt_waveglow/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
-<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/at/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/LJ001-0161.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ001-0161_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 </tr>
 </tbody>
 </table>
@@ -50,15 +50,15 @@ I will quote an extract from the reverend gentleman's own journal.
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/gt_waveglow/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
-<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/at/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
-<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/at/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/audio-LJ001-0161_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/tacotronNV_LJ001-0161_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/fs-LJ001-0161_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 </tr>
 </tbody>
 </table>
 
 
-I will quote an extract from the reverend gentleman's own journal.
+The various wards were all about eleven feet in height.
 
 <table border="0">
 <thead>
@@ -69,8 +69,8 @@ I will quote an extract from the reverend gentleman's own journal.
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/gt_waveglow/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
-<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/at/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/LJ002-0045.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ002-0045_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 </tr>
 </tbody>
 </table>
@@ -85,9 +85,148 @@ I will quote an extract from the reverend gentleman's own journal.
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/gt_waveglow/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
-<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/at/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
-<td style="text-align: center"><audio controls="controls"><source src="../audio/fastspeech/audio/at/1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ002-0045_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/tacotronNV_LJ002-0045_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/fs-LJ002-0045_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+</tr>
+</tbody>
+</table>
+
+
+The moral welfare of the inmates was as closely looked after as the physical.
+
+
+<table border="0">
+<thead>
+<tr>
+<th style="text-align: center">GT</th>
+<th style="text-align: center">GT(WaveGlow)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/LJ004-0211.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ004-0211_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+</tr>
+</tbody>
+</table>
+
+<table border="0" >
+<thead>
+<tr>
+<th style="text-align: center">Flow-TTS</th>
+<th style="text-align: center">Tacotron 2(WaveGlow)</th>
+<th style="text-align: center">FastSpeech(WaveGlow)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ004-0211_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/tacotronNV_LJ004-0211_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/fs-LJ004-0211_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+</tr>
+</tbody>
+</table>
+
+
+an incomplete and fallacious method of preventing contamination.
+
+<table border="0">
+<thead>
+<tr>
+<th style="text-align: center">GT</th>
+<th style="text-align: center">GT(WaveGlow)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/LJ005-0279.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ005-0279_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+</tr>
+</tbody>
+</table>
+
+<table border="0" >
+<thead>
+<tr>
+<th style="text-align: center">Flow-TTS</th>
+<th style="text-align: center">Tacotron 2(WaveGlow)</th>
+<th style="text-align: center">FastSpeech(WaveGlow)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ005-0279_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/tacotronNV_LJ005-0279_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/fs-LJ005-0279_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+</tr>
+</tbody>
+</table>
+
+except the forgery of wills and powers of attorney.
+
+<table border="0">
+<thead>
+<tr>
+<th style="text-align: center">GT</th>
+<th style="text-align: center">GT(WaveGlow)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/LJ011-0132.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ011-0132_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+</tr>
+</tbody>
+</table>
+
+<table border="0" >
+<thead>
+<tr>
+<th style="text-align: center">Flow-TTS</th>
+<th style="text-align: center">Tacotron 2(WaveGlow)</th>
+<th style="text-align: center">FastSpeech(WaveGlow)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ011-0132_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/tacotronNV_LJ011-0132_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/fs-LJ011-0132_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+</tr>
+</tbody>
+</table>
+
+by the blackmith in the usual way.
+
+<table border="0">
+<thead>
+<tr>
+<th style="text-align: center">GT</th>
+<th style="text-align: center">GT(WaveGlow)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/LJ011-0186.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ011-0186_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+</tr>
+</tbody>
+</table>
+
+<table border="0" >
+<thead>
+<tr>
+<th style="text-align: center">Flow-TTS</th>
+<th style="text-align: center">Tacotron 2(WaveGlow)</th>
+<th style="text-align: center">FastSpeech(WaveGlow)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/mel-LJ011-0186_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/tacotronNV_LJ011-0186_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+<td style="text-align: center"><audio controls="controls"><source src="wavs/fs-LJ011-0186_synthesis.wav" autoplay="">Your browser does not support the audio element.</audio></td>
 </tr>
 </tbody>
 </table>
