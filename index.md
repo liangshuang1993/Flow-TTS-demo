@@ -23,7 +23,10 @@ In this work, we propose Flow-TTS, a non-autoregressive end-to-end neural TTS mo
 ### We compare our method with [Tacotron 2](https://arxiv.org/abs/1712.05884) and [FastSpeech](https://arxiv.org/abs/1905.09263). All of the audio samples use [WaveGlow](https://arxiv.org/abs/1811.00002v1) as vocoder.
 
 
-I will quote an extract from the reverend gentleman's own journal.
+
+&nbsp;
+
+**I will quote an extract from the reverend gentleman's own journal.**
 
 <table border="0">
 <thead>
@@ -57,8 +60,9 @@ I will quote an extract from the reverend gentleman's own journal.
 </tbody>
 </table>
 
+&nbsp;
 
-I will quote an extract from the reverend gentleman's own journal.
+**I will quote an extract from the reverend gentleman's own journal.**
 
 <table border="0">
 <thead>
